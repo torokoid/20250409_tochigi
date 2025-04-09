@@ -197,9 +197,7 @@ p.note { display: none; }
 <h2><span class="yellow">以上、宇都宮市内ブライダル衣装レンタルショップの桜でした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
-<h2><span class="yellow">
-<a href="https://torokoid.github.io/Mashiko_himawari_3/" target="_blank">クリックでメニューページに戻ります</a>
-</span></h2>
+
 
 
 <br><br><br>
